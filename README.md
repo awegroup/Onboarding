@@ -3,9 +3,16 @@ Onboarding procedure for new researchers in awegroup!
 
 To make your research journey as smooth, fun and productive as possible, we kindly ask you to go through the following steps and apply what you learned throughout your research journey.
 
+## Scientific notation
+
+- [ ] https://cdn.journals.aps.org/files/rmpguide.pdf
+- [ ] all subscripts should be in upright, so not $C_L$ but $C_\mathrm{L}$
+- [ ] all numbers must be in mathmode, so not 4 but $4$
+- [ ] units should not be m/s but $ms^{-1}$
+
 ## Scientific language
 
-- [ ] Notation
+- [ ] The [Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguapa.pdf) provides suitable language advice.
 - [ ] Abbreviations and acronyms
 
 ## Illustrations, Figures, Images, Plots, etc.
@@ -21,16 +28,7 @@ As a bare minimum, you should use:
 - [ ] Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
 
 ## Latex
-For latex, you are free to choose any template.
-
-But it would be best if you stick to some style guides:
-- all subscripts should be in upright, so not $C_L$ but $C_\mathrm{L}$
-- all numbers must be in mathmode, so not 4 but $4$
-- units should not be m/s but $ms^{-1}$
-
-etc.
-
-
+Preferred is to use Overleaf (TU Delft has an institutional subscription). 
 
 ## Literature
 - [ ] For V3 related literature check the [TUDELFT_V3_KITE website](https://awegroup.github.io/TUDELFT_V3_KITE/)
