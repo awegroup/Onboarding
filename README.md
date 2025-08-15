@@ -5,15 +5,15 @@ To make your research journey as smooth, fun and productive as possible, we kind
 
 ## Scientific notation
 
-- [ ] https://cdn.journals.aps.org/files/rmpguide.pdf
+- [ ] The [Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is a good reference on scientific notation
 - [ ] all subscripts should be in upright, so not $C_L$ but $C_\mathrm{L}$
 - [ ] all numbers must be in mathmode, so not 4 but $4$
 - [ ] units should not be m/s but $ms^{-1}$
 
 ## Scientific language
 
-- [ ] The [Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguapa.pdf) provides suitable language advice.
-- [ ] Abbreviations and acronyms
+- [ ] The [Appendix A of the Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguapa.pdf) provides suitable language advice.
+- [ ] [Capitalization When Defining Abbreviations](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations)
 
 ## Illustrations, Figures, Images, Plots, etc.
 
