@@ -3,6 +3,10 @@ Onboarding procedure for new researchers in awegroup!
 
 To make your research journey as smooth, fun and productive as possible, we kindly ask you to go through the following steps and apply what you learned throughout your research journey.
 
+## Scientific language
+
+- [ ] Notation
+- [ ] Abbreviations and acronyms
 
 ## Illustrations, Figures, Images, Plots, etc.
 
