@@ -7,7 +7,7 @@ To make your research journey as smooth, fun and productive as possible, we kind
 
 - [ ] The [Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is a good reference on scientific notation
 - [ ] Subscripts that stand for abbreviations should be in upright, so not $C_L$ but $C_\mathrm{L}$
-- [ ] Subscripts used for enumertations are italic
+- [ ] Subscripts used for enumertations are italic ($a_i$ with $i=1, \ldots, N$).
 - [ ] Numbers must be in mathmode, so not 4 but $4$
 - [ ] Units should not be m/s but $ms^{-1}$ (Wind Energy Science style)
 
