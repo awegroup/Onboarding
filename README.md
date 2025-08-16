@@ -21,6 +21,7 @@ To make your research journey as smooth, fun and productive as possible, we kind
 ## Illustrations, Figures, Images, Plots, etc.
 
 - [ ] Check out: [figures_plots_illustrations_images](https://github.com/awegroup/Onboarding/blob/main/figures_plots_illustrations_images.md)
+- Always include source of illustration or part of it
 
 
 ## Code
