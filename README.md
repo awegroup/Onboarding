@@ -16,6 +16,8 @@ To make your research journey as smooth, fun and productive as possible, we kind
 - [ ] The [Appendix A of the Reviews of Modern Physics Style Guide](https://cdn.journals.aps.org/files/rmpguapa.pdf) provides suitable language advice.
 - [ ] [Capitalization When Defining Abbreviations](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations)
 
+## Use of AI
+
 ## Illustrations, Figures, Images, Plots, etc.
 
 - [ ] Check out: [figures_plots_illustrations_images](https://github.com/awegroup/Onboarding/blob/main/figures_plots_illustrations_images.md)
