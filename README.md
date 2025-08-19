@@ -18,18 +18,23 @@ To make your research journey as smooth, fun and productive as possible, we kind
 
 ## Use of AI
 
+- [ ] You can get an educational license for Github co-pilot, which will accelerate code development
+- [ ] TU Delft offers educational license for Grammarly, accelerating text writing
+
 ## Illustrations, Figures, Images, Plots, etc.
 
 - [ ] Check out: [figures_plots_illustrations_images](https://github.com/awegroup/Onboarding/blob/main/figures_plots_illustrations_images.md)
-- Always include source of illustration or part of it
+- Always include the (vector based) source of the illustration or part of it
 
 
 ## Code
 If working with code, make sure to scan through the [AWE Developer Guide](https://awegroup.github.io/developer-guide/), made specifically for this research group in collaboration with senior computer scientists from the [digital competency center](https://www.tudelft.nl/digital-competence-centre).
 
-As a bare minimum, you should use: 
-- [ ] Create a github repository, you could make use of our custom made [Python template](https://github.com/awegroup/template-python)
-- [ ] Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
+<details>
+    <summary>Minimum</summary>
+    - [ ] Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
+    - [ ] Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
+</details>
 
 ## Latex
 Preferred is to use Overleaf (TU Delft has an institutional subscription). 
