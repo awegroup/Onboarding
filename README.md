@@ -30,11 +30,14 @@ To make your research journey as smooth, fun and productive as possible, we kind
 ## Code
 If working with code, make sure to scan through the [AWE Developer Guide](https://awegroup.github.io/developer-guide/), made specifically for this research group in collaboration with senior computer scientists from the [digital competency center](https://www.tudelft.nl/digital-competence-centre).
 
+**Minimum**
+- [ ] Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
+- [ ] Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
+
 <details>
-    <summary>Minimum</summary>
-    - Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
-    
-    - Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
+    <summary>Advanced</summary>
+    - Using .toml files (see [AWE Developer Guide](https://awegroup.github.io/developer-guide/) ) to package your project and make it locally pip installable.
+    - ...
 </details>
 
 ## Latex
