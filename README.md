@@ -29,6 +29,7 @@ To make your research journey as smooth, fun and productive as possible, we kind
 
 ## Code
 If working with code, make sure to scan through the [AWE Developer Guide](https://awegroup.github.io/developer-guide/), made specifically for this research group in collaboration with senior computer scientists from the [digital competency center](https://www.tudelft.nl/digital-competence-centre).
+- [ ] Visual studio code is recommended
 
 **Minimum**
 - [ ] Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
