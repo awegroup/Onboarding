@@ -36,8 +36,8 @@ If working with code, make sure to scan through the [AWE Developer Guide](https:
 
 <details>
     <summary>Advanced</summary>
-    - Using .toml files (see [AWE Developer Guide](https://awegroup.github.io/developer-guide/) ) to package your project and make it locally pip installable.
-    - ...
+    Using .toml files see: (https://awegroup.github.io/developer-guide/) to package your project and make it locally pip installable.
+    More things...
 </details>
 
 ## Latex
