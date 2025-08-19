@@ -32,8 +32,9 @@ If working with code, make sure to scan through the [AWE Developer Guide](https:
 
 <details>
     <summary>Minimum</summary>
-    - [ ] Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
-    - [ ] Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
+    - Create a GitHub repository, you could make use of our custom-made [Python template](https://github.com/awegroup/template-python)
+    
+    - Track your research using git by frequently (every day) making new commits and pushing your changes to the remote.
 </details>
 
 ## Latex
