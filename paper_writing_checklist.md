@@ -44,6 +44,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
   - [ ] Aerodynamic coefficients → lowercase ($C_{\mathrm{l}}, C_{\mathrm{d}}, C_{\mathrm{s}}$) for 2D; uppercase ($C_{\mathrm{L}}, C_{\mathrm{D}}, C_{\mathrm{S}}$) for 3D  
   - [ ] Reynolds number as $\mathrm{Re}$
   - [ ] Infinitesimal $d$ in italic ([reference](https://en.wikipedia.org/wiki/Derivative))
+  - [ ] Try to limit the use of the word "enables" → it comes from the german/dutch language
 
 **Sections and titles**  
 - [ ] First letter capitalised, rest lowercase  
