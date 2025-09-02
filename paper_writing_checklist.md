@@ -10,19 +10,20 @@ A structured checklist for preparing and polishing scientific works.
 
 - [ ] **Symbols**
   - Consistent across manuscript
-  - Scalars → italic lowercase (e.g. $u$).
-  - Vectors → bold italic lowercase (e.g. $\vec{u}$).
-  - Matrices / second-order tensors → bold upright uppercase (e.g. $\mathbf{U}$).
-  - Unit vectors → always $\vec{e}$ (never hatted symbols).
-  - Vector magnitudes → italic lowercase (like scalars, e.g. $u$).
+  - Scalars → italic lowercase (e.g. u: $u$).
+  - Vectors → bold italic lowercase (e.g. \vec{u}: $\vec{u}$).
+  - Matrices / second-order tensors → bold upright uppercase (e.g. \mathbf{U}: $\mathbf{U}$)
+    or just bold if greek symbol → \boldsymbol{\tau}: $\boldsymbol{\tau}$
+  - Unit vectors → always \vec{e}: $\vec{e}$ (never hatted symbols).
+  - Vector magnitudes → italic lowercase (like scalars, e.g. u: $u$).
   - Never introduce new symbols in brackets; brackets are reserved for abbreviations.  
-    Example: Virtual wind tunnel (VWT), the density $\rho$.
+    Example: Virtual wind tunnel (VWT), the density \rho.
 
 - [ ] **Subscripts and Indices**
-  - Variables/iterative indices → italic (e.g. $x_i$).
-  - Descriptors/abbreviations → roman (e.g. $v_{\mathrm{w}}$).
+  - Variables/iterative indices → italic (e.g. x_i $x_i$).
+  - Descriptors/abbreviations → roman (e.g. v_\textrm{w}: $v_{\textrm{w}}$).
   - Never use double subscripts; use commas for multiple indices
-    Example: $\vec{u}_{\textrm{a},k}$
+    Example: v_{\textrm{w},i}: $v_{\textrm{w},i}$
   - Indices are never bold.
 
 - [ ] **Numbers and Units**
@@ -164,9 +165,6 @@ A structured checklist for preparing and polishing scientific works.
   - Engineering vs. scientific notation  
   - Use consistent convention  
   - Example: easier comparisons if kept at $10^5$ scale  
-
----
-
 
 ---
 
