@@ -19,8 +19,8 @@ A structured checklist for preparing and polishing scientific works.
     Example: Virtual wind tunnel (VWT), the density $\rho$.
 
 - [ ] **Subscripts and Indices**
-  - Variables/iterative indices → italic (e.g. $x_i$, $V_j$).
-  - Descriptors/abbreviations → roman (e.g. $C_{\mathrm{w}}$, $T_{\mathrm{env}}$).
+  - Variables/iterative indices → italic (e.g. $x_i$).
+  - Descriptors/abbreviations → roman (e.g. $v_{\mathrm{w}}$).
   - Never use double subscripts; use commas for multiple indices
     Example: $\vec{u}_{\textrm{a},k}$
   - Indices are never bold.
