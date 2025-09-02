@@ -1,6 +1,7 @@
 # 📋 Scientific Writing Checklist
 
 A structured checklist for preparing and polishing scientific works.
+You can copy this list as an Issue to your repository of choice and mark the items online on GitHub to ensure you have satisfied all the requirements.
 
 ---
 
