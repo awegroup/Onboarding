@@ -9,21 +9,22 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 
 **Symbols**
 - [ ] Consistent across manuscript  
-- [ ] Scalars → italic lowercase (e.g. $u$)  
-- [ ] Vectors → bold italic lowercase (e.g. $\vec{u}$)  
-- [ ] Matrices / second-order [tensor](https://en.wikipedia.org/wiki/Tensor) / [dyadics](https://en.wikipedia.org/wiki/Dyadics) → bold upright uppercase (e.g. $\mathbf{U}$) or bold if Greek (e.g. $\boldsymbol{\tau}$)  
-- [ ] Unit vectors → always $\vec{e}$ (never hatted symbols)  
-- [ ] Vector magnitudes → italic lowercase (like scalars, e.g. $u$)  
-- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)  
+- [ ] Scalars → italic lowercase (e.g. u: $u$)  
+- [ ] Vectors → bold italic lowercase (e.g. \vec{u}: $\vec{u}$)  
+- [ ] Matrices / second-order [tensor](https://en.wikipedia.org/wiki/Tensor) / [dyadics](https://en.wikipedia.org/wiki/Dyadics) → bold upright uppercase (e.g. \mathbf{U}: $\mathbf{U}$) 
+    or bold if Greek (e.g. \boldsymbol{\tau}: $\boldsymbol{\tau}$)  
+- [ ] Unit vectors → always \vec{e}: $\vec{e}$ (never hatted symbols)  
+- [ ] Vector magnitudes → italic lowercase (like scalars, e.g. u: $u$)  
+- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density \rho)  
 
 **Abbreviations**
 - [ ] Only capitalise names: airborne wind energy (AWE), Reynolds-averaged Navier–Stokes (RANS) ([AJE reference](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations/))  
     
 **Subscripts and indices**
-- [ ] Variables/iterative indices → italic (e.g. $x_i$)  
-- [ ] Descriptors/abbreviations → roman (e.g. $v_{\textrm{w}}$)  
-- [ ] Use commas for multiple indices, never double subscripts (e.g. $v_{\textrm{w},i}$)  
-- [ ] Indices never bold  
+- [ ] Variables/iterative indices → italic (e.g. x_i: $x_i$)  
+- [ ] Descriptors/abbreviations → roman (e.g. v_\textrm{w}: $v_{\textrm{w}}$)  
+- [ ] Use commas for multiple indices, never double subscripts (e.g. v_{\textrm{w},i}: $v_{\textrm{w},i}$)  
+- [ ] Indices never bold
 
 **Numbers and units**
 - [ ] All numbers in math mode →  $10^5$  
