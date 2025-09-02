@@ -50,7 +50,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] Number up to three levels (e.g. 3, 3.1, 3.1.1)  
 - [ ] Use “Sect.” in running text (unless at sentence start
 
-**Citations** → see [Bibliography](##Bibliography) 
+**Citations**
 - [ ] `\citep{}` for (Schmehl et al., 2023)  
 - [ ] `\cite{}` for Schmehl et al. (2023)  
 
@@ -104,12 +104,48 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 
 ---
 
-## 📚 Bibliograph  
-- [ ] Each entry must have DOI or working URL  
-- [ ] “Submitted” or “in review” allowed if accessible to reviewers ([WES policy](https://www.wind-energy-science.net/submission.html#references))  
-- [ ] BibTeX entries must compile with full initials (e.g. `J. A. W. Poland`)  
-- [ ] Capitalise “van”, “de”, etc. if at start of entry  
-- [ ] Ensure consistency with `macros.tex` vocabulary  
+## 📚 Bibliography
+
+- [ ] **Completeness of entries**
+  - Every reference must include: `author`, `title`, `journal`/`booktitle`/`institution`, `year`.
+  - Add `volume`, `number`, `pages` if available.
+  - Always provide `doi` **and** `url` if possible.
+  - Ensure `publisher` and `address` are included for books and reports.
+
+- [ ] **Author names**
+  - Use full last names, initials separated by spaces → `J. A. W. Poland`, not `J.A.W. Poland`.
+  - Keep accents in names (e.g. *Raphaël*, *Viré*).
+  - Capitalise *van*, *de*, etc. **only** when at the start of a reference list entry.
+  - Multiple authors joined with “and” (BibTeX requirement).
+  - No all-caps names (e.g. `PRANDTL1918` should be `Prandtl1918`).
+
+- [ ] **Titles**
+  - Sentence case for article, report, and book chapter titles (only proper nouns capitalised).
+  - For journals and book series → keep official title capitalisation (e.g. *Journal of Physics: Conference Series*).
+  - Conference series names in braces `{IFAC}` etc. to preserve capitalisation.
+
+- [ ] **Journals, Books, Reports**
+  - Journal names written in full (no abbreviations unless required by publisher).
+  - Books → include `edition`, `publisher`, `address`, and `isbn` if available.
+  - Technical reports → include `institution`, `number`, and `address`.
+  - In-collection chapters → include `editor`, `booktitle`, `publisher`, and `pages`.
+
+- [ ] **Special cases**
+  - “Submitted”, “in review”, “in preparation” allowed if available to reviewers (WES policy).  
+    Example: `Poland2025a` entry should include `[in preparation]` in the title.
+  - Classic works without DOI must include a stable URL (e.g. `Prandtl1918` → `http://eudml.org/doc/59036`).
+  - Historical reports without DOI → at least `institution` and year (e.g. `Batchelor1944`, `Gent1944`).
+
+- [ ] **DOI and URL formatting**
+  - DOI always in form: `doi = {10.1088/1742-6596/1618/3/032007}`, no prefix `https://doi.org/`.
+  - If only URL is available, ensure it is a stable link (avoid institutional proxies).
+  - Do not include both `doi` and `url` if the URL is just the DOI link.
+
+- [ ] **Consistency checks**
+  - Use consistent key naming → `SurnameYear` or `SurnameYear[a/b]` for duplicates.
+  - Avoid capitalisation inconsistencies in citation keys (`Prandtl1918` not `PRANDTL1918`).
+  - Ensure all references compile with BibTeX and match journal requirements.
+  - Match symbol and terminology conventions in `macros.tex` (e.g. $C_{\mathrm{L}}$ not CL in titles).
 
 ---
 
