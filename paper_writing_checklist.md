@@ -9,7 +9,7 @@ A structured checklist for preparing and polishing scientific works.
 ### 🔢 Notation Style
 
 - [ ] **Symbols**
-  - Consistent across manuscript, aligned with `macros.tex`.
+  - Consistent across manuscript
   - Scalars → italic lowercase (e.g. $u$).
   - Vectors → bold italic lowercase (e.g. $\vec{u}$).
   - Matrices / second-order tensors → bold upright uppercase (e.g. $\mathbf{U}$).
