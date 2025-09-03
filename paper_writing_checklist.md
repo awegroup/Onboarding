@@ -14,7 +14,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] Matrices / second-order [tensor](https://en.wikipedia.org/wiki/Tensor) / [dyadics](https://en.wikipedia.org/wiki/Dyadics) → bold upright uppercase (e.g. \mathbf{U}: $\mathbf{U}$) 
     or bold if Greek (e.g. \boldsymbol{\tau}: $\boldsymbol{\tau}$)  
 - [ ] Unit vectors → always \vec{e}: $\vec{e}$ (never hatted symbols)  
-- [ ] Vector magnitudes → italic lowercase (like scalars, e.g. u: $u$)  
+- [ ] Vector magnitudes → italic lowercase, because they are scalars
 - [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density \rho)  
 
 **Abbreviations**
