@@ -76,7 +76,8 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] Use **Sect.** in running text (unless at the beginning of a sentence).  
 - [ ] Use **Eq.** and **Fig.** for equation/figure references (unless at sentence start).  
 - [ ] Always capitalise “Table” when numbered, never abbreviate.  
-- [ ] Figures must always be referenced by label (e.g. “see Fig. \ref{fig:example}”), never by position.  
+- [ ] Figures must always be referenced by label (e.g. “see Fig. \ref{fig:example}”), never by position.
+- [ ] No bold usage in tables
 
 ---
 
