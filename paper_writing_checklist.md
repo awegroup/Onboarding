@@ -51,6 +51,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] First letter capitalised, rest lowercase  
 - [ ] Number up to three levels (e.g. 3, 3.1, 3.1.1)  
 - [ ] Use “Sect.” in running text (unless at sentence start
+- [ ] No abbreviations in titles
 
 **Citations**
 - [ ] `\citep{}` for (Schmehl et al., 2023)  
