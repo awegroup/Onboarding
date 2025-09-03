@@ -15,7 +15,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
     or bold if Greek (e.g. \boldsymbol{\tau}: $\boldsymbol{\tau}$)  
 - [ ] Unit vectors → always \mathbf{e}: $\mathbf{e}$ (never hatted symbols)  
 - [ ] Vector magnitudes → italic lowercase, because they are scalars
-- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density \rho)  
+- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)  
 
 **Abbreviations**
 - [ ] Only capitalise names: airborne wind energy (AWE), Reynolds-averaged Navier–Stokes (RANS) ([AJE reference](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations/))  
