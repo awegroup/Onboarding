@@ -38,7 +38,8 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] Number only if referenced  
 - [ ] No manual spacing like `\,`  
 - [ ] Never place two equations consecutively without text between  
-- [ ] End with a point or a comma, depending on sentence integration  
+- [ ] End with a point or a comma, depending on sentence integration
+- [ ] Trigonometry functions always in upright roman font  
 
 **Terminology**
   - [ ] Always write “TU Delft V3 kite” or “V3 kite” (never just “V3”)  
