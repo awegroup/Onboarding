@@ -15,7 +15,8 @@ You can copy this list as an Issue to your repository of choice and mark the ite
     or bold if Greek (e.g. \boldsymbol{\tau}: $\boldsymbol{\tau}$)  
 - [ ] Unit vectors → always \mathbf{e}: $\mathbf{e}$ (never hatted symbols)  
 - [ ] Vector magnitudes → italic lowercase, because they are scalars
-- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)  
+- [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)
+- [ ] Non-dimensional numbers, e.g. Reynolds number R and Mach M, should be written in upright roman → \textrm{R}: $\textrm{R}$ & \textrm{M}: $\textrm{M}$ 
 
 **Abbreviations**
 - [ ] Only capitalise names: airborne wind energy (AWE), Reynolds-averaged Navier–Stokes (RANS) ([AJE reference](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations/))  
@@ -44,7 +45,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
   - [ ] Aerodynamic coefficients → lowercase ($C_{\mathrm{l}}, C_{\mathrm{d}}, C_{\mathrm{s}}$) for 2D; uppercase ($C_{\mathrm{L}}, C_{\mathrm{D}}, C_{\mathrm{S}}$) for 3D  
   - [ ] Reynolds number as $\mathrm{Re}$
   - [ ] Infinitesimal $d$ in italic ([reference](https://en.wikipedia.org/wiki/Derivative))
-  - [ ] Try to limit the use of the word "enables" → it comes from the german/dutch language
+  - [ ] Try to limit the use of the word "enables" → it comes from the German/Dutch language
 
 **Sections and titles**  
 - [ ] First letter capitalised, rest lowercase  
