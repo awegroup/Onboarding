@@ -16,7 +16,9 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] Unit vectors → always \mathbf{e}: $\mathbf{e}$ (never hatted symbols)  
 - [ ] Vector magnitudes → italic lowercase, because they are scalars
 - [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)
-- [ ] Non-dimensional numbers, e.g. Reynolds number R and Mach M, should be written in upright roman → \textrm{R}: $\textrm{R}$ & \textrm{M}: $\textrm{M}$ 
+- [ ] Non-dimensional numbers, e.g. Reynolds number R and Mach M, should be written in upright roman → \textrm{R}: $\textrm{R}$ & \textrm{M}: $\textrm{M}$
+- [ ] Transpose operater → ^\top: $^\top$
+
 
 **Abbreviations**
 - [ ] Only capitalise names: airborne wind energy (AWE), Reynolds-averaged Navier–Stokes (RANS) ([AJE reference](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations/))  
@@ -39,7 +41,7 @@ You can copy this list as an Issue to your repository of choice and mark the ite
 - [ ] No manual spacing like `\,`  
 - [ ] Never place two equations consecutively without text between  
 - [ ] End with a point or a comma, depending on sentence integration
-- [ ] Trigonometry functions always in upright roman font  
+- [ ] Trigonometry functions always in upright roman font
 
 **Terminology**
   - [ ] Always write “TU Delft V3 kite” or “V3 kite” (never just “V3”)  
