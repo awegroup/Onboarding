@@ -87,6 +87,9 @@ Another option is to create an Issue in any repository (perhaps your project rep
 
 ## 📄 Manuscript structure and content
 
+**Referring to Faculty**
+- [ ] Should be: "Faculty of Aerospace Engineering, Delft University of Technology, 2629 HS Delft, The Netherlands"
+
 **Abstract**  
 - [ ] 200–300 words  
 - [ ] Include central research question, brief methods, main results, and conclusions  
