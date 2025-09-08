@@ -25,7 +25,7 @@ Another option is to create an Issue in any repository (perhaps your project rep
 - [ ] Only capitalise names: airborne wind energy (AWE), Reynolds-averaged Navier–Stokes (RANS) ([AJE reference](https://www.aje.com/arc/editing-tip-capitalization-when-defining-abbreviations/))  
     
 **Subscripts and indices**
-- [ ] Variables/iterative indices → italic (e.g. x_i: $x_i$)  
+- [ ] Variables/iterative indices → italic (e.g. x_i: $x_i$ and u_x: $u_x$)  
 - [ ] Descriptors/abbreviations → roman (e.g. v_\textrm{w}: $v_{\textrm{w}}$)  
 - [ ] Use commas for multiple indices, never double subscripts (e.g. v_{\textrm{w},i}: $v_{\textrm{w},i}$)  
 - [ ] Indices never bold
