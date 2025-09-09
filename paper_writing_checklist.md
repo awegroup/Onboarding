@@ -43,7 +43,7 @@ Another option is to create an Issue in any repository (perhaps your project rep
 - [ ] Never place two equations consecutively without text between  
 - [ ] End with a point or a comma, depending on sentence integration
 - [ ] Trigonometry functions always in upright roman font
-- [ ] "Statements about equations should be in the present as these are timeless." When describing a timeless fact of some sort, you have to use the present. (Present tense: General truths and atemporal facts)[https://www.nature.com/scitable/topicpage/effective-writing-13815989/] 
+- [ ] "Statements about equations should be in the present as these are timeless." When describing a timeless fact of some sort, you have to use the present. [Present tense: General truths and atemporal facts](https://www.nature.com/scitable/topicpage/effective-writing-13815989/) 
 
 **Terminology**
   - [ ] Always write “TU Delft V3 kite” or “V3 kite” (never just “V3”)  
