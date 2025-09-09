@@ -1,8 +1,6 @@
 # 📋 Checklist
 
-A structured checklist for preparing and polishing scientific works. 
-If you would like to use this checklist to tick off boxes, you can copy this into any markdown editor that supports this, e.g., Notion. 
-Another option is to create an Issue in any repository (perhaps your project repo), where inside the Issue environment, GitHub allows you to tick off boxes in the browser.
+A structured checklist for preparing and polishing scientific works. If you would like to use this checklist to tick off boxes, you can copy this into any markdown editor that supports this, e.g., Notion or Obsidian. Another option is to create an Issue in any repository (perhaps your project repo), where inside the Issue environment, GitHub allows you to tick off boxes in the browser.
 
 ---
 
