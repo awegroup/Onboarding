@@ -75,7 +75,8 @@ A structured checklist for preparing and polishing scientific works. If you woul
 
 - [ ] Table captions must be placed **above** the table.  
 - [ ] Figure captions must be placed **below** the figure.  
-- [ ] Captions must not start with “(A)” or “The”.  
+- [ ] Captions must not start with “(A)” or “The”; they should start descriptively instead.
+      Not: "The velocity standard deviations..", instead write: "Velocity standard deviations.."    
 - [ ] Tables must be black-and-white with meaningful captions; no colour fill.  
 - [ ] Panels in multi-part figures labelled (a), (b), etc., lowercase in parentheses.  
 - [ ] Use **Sect.** in running text (unless at the beginning of a sentence).  
