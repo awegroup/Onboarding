@@ -48,7 +48,7 @@ Another option is to create an Issue in any repository (perhaps your project rep
 **Terminology**
   - [ ] Always write “TU Delft V3 kite” or “V3 kite” (never just “V3”)  
   - [ ] Aerodynamic coefficients → lowercase ($C_{\mathrm{l}}, C_{\mathrm{d}}, C_{\mathrm{s}}$) for 2D; uppercase ($C_{\mathrm{L}}, C_{\mathrm{D}}, C_{\mathrm{S}}$) for 3D  
-  - [ ] Reynolds number as $\mathrm{Re}$
+  - [ ] Reynolds number as \textrm{Re} → $\textrm{Re}$
   - [ ] Upright $d$, not italic
   - [ ] Try to limit the use of the word "enables" → it comes from the German/Dutch language
 
