@@ -41,14 +41,14 @@ A structured checklist for preparing and polishing scientific works. If you woul
 - [ ] Never place two equations consecutively without text between  
 - [ ] End with a point or a comma, depending on sentence integration
 - [ ] Trigonometry functions always in upright roman font
-- [ ] "Statements about equations should be in the present as these are timeless." When describing a timeless fact of some sort, you have to use the present. [Present tense: General truths and atemporal facts](https://www.nature.com/scitable/topicpage/effective-writing-13815989/) 
+
 
 **Terminology**
   - [ ] Always write “TU Delft V3 kite” or “V3 kite” (never just “V3”)  
   - [ ] Aerodynamic coefficients → lowercase ($C_{\mathrm{l}}, C_{\mathrm{d}}, C_{\mathrm{s}}$) for 2D; uppercase ($C_{\mathrm{L}}, C_{\mathrm{D}}, C_{\mathrm{S}}$) for 3D  
   - [ ] Reynolds number as \textrm{Re} → $\textrm{Re}$
   - [ ] Upright $d$, not italic
-  - [ ] Try to limit the use of the word "enables" → it comes from the German/Dutch language
+
 
 **Sections and titles**  
 - [ ] First letter capitalised, rest lowercase  
@@ -65,7 +65,9 @@ A structured checklist for preparing and polishing scientific works. If you woul
 - [ ] Oxford comma always  
 - [ ] Past tense for work done, results, observations  
 - [ ] Present tense for general truths, established knowledge  
-- [ ] Future tense for outlooks, perspectives  
+- [ ] Future tense for outlooks, perspectives
+- [ ] Try to limit the use of the word "enables". In native scientific English, “facilitates” (or sometimes “allows for”, “makes possible”, “permits”) is generally more idiomatic than “enables”, which can feel like a calque from German ermöglicht or Dutch maakt mogelijk.
+- [ ] "Statements about equations should be in the present as these are timeless." When describing a timeless fact of some sort, you have to use the present. [Present tense: General truths and atemporal facts](https://www.nature.com/scitable/topicpage/effective-writing-13815989/)  
 
 ---
 
