@@ -4,6 +4,8 @@ A structured checklist for preparing and polishing scientific works. If you woul
 
 ---
 
+- [ ] Write in British English  
+
 ## ✒️ Style & formatting policy
 
 **Symbols**
