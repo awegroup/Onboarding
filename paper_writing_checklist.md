@@ -9,7 +9,7 @@ A structured checklist for preparing and polishing scientific works. If you woul
 ## ✒️ Style & formatting policy
 
 **Symbols**
-- [ ] Consistent across manuscript  
+- [ ] Consistent across manuscript (can use AI to point you towards inconsistencies)
 - [ ] Scalars → italic lowercase (e.g. u: $u$)  
 - [ ] Vectors → bold italic lowercase (e.g. \mathbf{u}: $\mathbf{u}$)  
 - [ ] Matrices / second-order [tensor](https://en.wikipedia.org/wiki/Tensor) / [dyadics](https://en.wikipedia.org/wiki/Dyadics) → bold upright uppercase (e.g. \mathbf{U}: $\mathbf{U}$) 
