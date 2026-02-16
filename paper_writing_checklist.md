@@ -180,5 +180,6 @@ A structured checklist for preparing and polishing scientific works. If you woul
   - [ ] `letter_to_editor.txt`  
   - [ ] `reviewers.txt`  
 - [ ] "If you help with writing the manuscript, then, and only then, should you be a co-author." Just being the author of a code that is used is not sufficient for being a co-author.
+- [ ] nonlinear, not non-linear
 
 ---
