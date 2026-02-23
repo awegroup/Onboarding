@@ -86,7 +86,8 @@ A structured checklist for preparing and polishing scientific works. If you woul
 - [ ] Always capitalise “Table” when numbered, never abbreviate.  
 - [ ] Figures must always be referenced by label (e.g. “see Fig. \ref{fig:example}”), never by position.
 - [ ] No bold usage in tables
-
+- [ ] For WES/Copernicus standards, a caption must: Define all symbols appearing in it.
+- [ ] Be descriptive rather than narrative.
 ---
 
 ## 📄 Manuscript structure and content
