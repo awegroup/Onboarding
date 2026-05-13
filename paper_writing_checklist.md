@@ -14,7 +14,7 @@ A structured checklist for preparing and polishing scientific works. If you woul
 - [ ] Vectors → bold italic lowercase (e.g. \mathbf{u}: $\mathbf{u}$)  
 - [ ] Matrices / second-order [tensor](https://en.wikipedia.org/wiki/Tensor) / [dyadics](https://en.wikipedia.org/wiki/Dyadics) → bold upright uppercase (e.g. \mathbf{U}: $\mathbf{U}$) 
     or bold if Greek (e.g. \boldsymbol{\tau}: $\boldsymbol{\tau}$)  
-- [ ] Unit vectors → always \mathbf{e}: $\mathbf{e}$ (never hatted symbols)  
+- [ ] Unit vectors → always \mathbf{e}: $\mathbf{e}$ (never hatted symbols)  although  $\mathbf{n}$ is also okay
 - [ ] Vector magnitudes → italic lowercase, because they are scalars
 - [ ] Never introduce new symbols in brackets; brackets only for abbreviations (e.g. Virtual wind tunnel (VWT), the density $\rho$)
 - [ ] Non-dimensional numbers, e.g. Reynolds number R and Mach M, should be written in upright roman → \textrm{R}: $\textrm{R}$ & \textrm{M}: $\textrm{M}$
